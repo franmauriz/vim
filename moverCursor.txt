@@ -1,0 +1,5 @@
+Las teclas para mover el cursor por el documento son:
+h mueve el cursor hacia la izquierda
+j mueve el cursor hacia abajo
+k mueve el cursor hacia arriba
+l mueve el cursor hacia la izquierda
