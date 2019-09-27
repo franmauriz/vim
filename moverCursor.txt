@@ -1,5 +1,18 @@
-Las teclas para mover el cursor por el documento son:
-h mueve el cursor hacia la izquierda
-j mueve el cursor hacia abajo
-k mueve el cursor hacia arriba
-l mueve el cursor hacia la izquierda
+# Las teclas para mover el cursor por el documento son:
+- h mueve el cursor hacia la izquierda
+- j mueve el cursor hacia abajo
+- k mueve el cursor hacia arriba
+- l mueve el cursor hacia la izquierda
+
+- w principio de la siguiente palabra
+- e final de la palabra actual
+- b principio de la palabra actual
+- {num}+tecla navegación: navegar por lineas
+- f+{caracter}: busca letra en la misma linea
+- 0 principio línea
+- $ final de línea
+- * busca misma palabra
+- % ir a apertura y cierre de parénteisi, corchetes
+- gg ir al incio de todo
+- G ir al final de todo
+- {num}+G ir a la linea {num}   
